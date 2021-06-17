@@ -8,6 +8,7 @@ How does it look? Take a look at [Loans]()
 ## Stack
 * Firebase
 * React
+* Jest
 * TypeScript
 * Styled Components
 
