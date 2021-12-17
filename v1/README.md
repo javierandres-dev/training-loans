@@ -3,7 +3,7 @@
 
 ## Description
 App to manage loans  
-How does it look? Take a look at []()
+How does it look? Take a look at [Loans]()
 
 ## Stack
 * React
